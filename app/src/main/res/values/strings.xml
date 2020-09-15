@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Essential</string>
+    <string name="title_activity_listening">Listening</string>
+    <string name="title_activity_main_writing">MainWriting</string>
+</resources>
